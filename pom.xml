@@ -36,6 +36,9 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<groupId><org class="spring-context"></org></groupId>
+			<artifactId><spring-context></spring-context></artifactId>
+			<scope>test</scope>
 	</dependencies>
 
 	<build>
